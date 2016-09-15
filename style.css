@@ -5,8 +5,14 @@
     padding:20px;
 }
 
-.navbar-header{
+.background-image{
+    background:linear-gradient(lightblue,royalblue);
+}
+
+.navbar-default{
     color:white;
+    position:fixed;
+    background:none;
 }
 
 .container-2{
