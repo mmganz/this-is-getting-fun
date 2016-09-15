@@ -1,0 +1,38 @@
+.container-1{
+    text-align: center;
+    color: darkgrey;
+    font-size: 20px;
+}
+
+.navbar-header{
+    color:white;
+}
+
+.container-2{
+background: blue;
+color: white;
+}
+
+.container-3{
+    background:lightgrey;
+    color:darkgrey;
+    text-align:center;
+}
+
+.container-4{
+    background:lightgrey;
+    color:darkgrey;
+    text-align:center;
+}
+
+.Video{
+    background:blue;
+}
+
+.Notizie{
+    background: lightblue;
+}
+
+.footer{
+    background:darkgray;
+}
