@@ -10,7 +10,6 @@
 }
 
 .navbar-default{
-    color:white;
     background:none;
 }
 
@@ -18,6 +17,10 @@
     height:100%;
     width:auto;
     padding:0px;    
+}
+
+.navbar-nav{
+    color:white;
 }
 
 .container-2{
