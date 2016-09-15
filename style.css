@@ -11,20 +11,14 @@
 
 .navbar-default{
     color:white;
-    position:fixed;
     background:none;
-}
-
-.navbar-brand{
 }
 
 .brand-1{
     height:100%;
     width:auto;
-    padding:0px;
-    
+    padding:0px;    
 }
-
 
 .container-2{
 color: white;
