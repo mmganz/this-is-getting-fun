@@ -49,11 +49,16 @@ height: auto;
 }
 
 .container-4{
-    background:lightgrey;
-    color:darkgrey;
+    background:white;
+    color: #555555;
     text-align:center;
     padding:20px;
 }
+.hovers:hover{
+      width: 250px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 
 .container-5{
     padding:20px;
