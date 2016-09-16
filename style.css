@@ -1,7 +1,3 @@
-body{
-    outline:red;
-}
-
 .container-1{
     text-align: center;
     color: #555555;;
@@ -89,6 +85,10 @@ border-radius: 5px;
 
 .hovers:hover::after {
     opacity: 1;
+}
+
+.Video{
+    background:black;
 }
 
 .Notizie{
