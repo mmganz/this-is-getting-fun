@@ -79,8 +79,8 @@ border-radius: 5px;
 }
 
 .hovers:hover{
-    -webkit-transform: scale(1.25, 1.25);
-  transform: scale(1.25, 1.25);
+    -webkit-transform: scale(1.10, 1.10);
+  transform: scale(1.10, 1.10);
 }
 
 .hovers:hover::after {
