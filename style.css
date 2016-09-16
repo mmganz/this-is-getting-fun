@@ -90,14 +90,19 @@ border-radius: 5px;
 
 .container-5{
     padding:20px;
+   
 }
 
 .Video{
-    background:blue;
+   height:100%;
+   width:100%;
 }
 
 .Notizie{
-    background: lightblue;
+   background: #5DA1CF;
+}
+.Notizie h1{
+    color:white;
 }
 
 .footer{
