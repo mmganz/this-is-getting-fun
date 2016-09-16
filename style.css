@@ -1,6 +1,6 @@
 .container-1{
     text-align: center;
-    color: darkgrey;
+    color: #555555;;
     font-size: 20px;
     padding:20px;
 }
@@ -37,7 +37,7 @@ height: auto;
 
 .container-3{
     background: white;
-    color:darkgrey;
+    color: #555555;
     text-align:center;
     padding:20px;
     text-align: center;
