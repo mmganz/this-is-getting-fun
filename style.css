@@ -30,11 +30,8 @@ text-align:center;
 }
 
 .phones{
-    padding:0px;
-    display:block;
-    max-width:100%;
-    height: auto;
-
+max-width:100%;
+height: auto;
 
 }
 
@@ -43,6 +40,14 @@ text-align:center;
     color:darkgrey;
     text-align:center;
     padding:20px;
+    text-align: center;
+}
+
+.tfeat{
+    text-size:14px;
+}
+.pfeat{
+    text-size:10px;
 }
 
 .container-4{
