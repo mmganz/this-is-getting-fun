@@ -39,12 +39,13 @@ height: auto;
     background: white;
     color: #555555;
     text-align:center;
-    padding:40px;
+    padding:60px;
     text-align: center;
 }
 
 .fptext{
    color: rgba(85,85,85,0.66);
+   line-height: 10px;
 }
 
 .container-4{
