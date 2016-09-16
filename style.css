@@ -87,6 +87,10 @@ border-radius: 5px;
     opacity: 1;
 }
 
+.video{
+    width:100%;
+}
+
 .notizie{
    background: #5DA1CF;
    color:white;
