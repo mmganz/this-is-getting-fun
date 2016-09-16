@@ -39,8 +39,12 @@ height: auto;
     background: white;
     color: #555555;
     text-align:center;
-    padding:20px;
+    padding:40px;
     text-align: center;
+}
+
+.fptext{
+   color: rgba(85,85,85,0.66);
 }
 
 .container-4{
